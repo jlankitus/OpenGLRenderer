@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ubu/Documents/OpenGLRenderer/build",
+  "command": "/usr/bin/cc  -I/home/ubu/Documents/OpenGLRenderer/include -g -o CMakeFiles/glad.dir/src/glad.c.o -c /home/ubu/Documents/OpenGLRenderer/src/glad.c",
+  "file": "/home/ubu/Documents/OpenGLRenderer/src/glad.c"
+},
+{
+  "directory": "/home/ubu/Documents/OpenGLRenderer/build",
+  "command": "/usr/bin/c++  -I/home/ubu/Documents/OpenGLRenderer/include -g -std=gnu++11 -o CMakeFiles/MyOpenGLProject.dir/src/main.cpp.o -c /home/ubu/Documents/OpenGLRenderer/src/main.cpp",
+  "file": "/home/ubu/Documents/OpenGLRenderer/src/main.cpp"
+}
+]

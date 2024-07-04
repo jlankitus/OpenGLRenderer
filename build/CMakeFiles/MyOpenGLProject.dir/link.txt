@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MyOpenGLProject.dir/src/main.cpp.o -o MyOpenGLProject   -L/home/ubu/Documents/OpenGLRenderer/lib  -Wl,-rpath,/home/ubu/Documents/OpenGLRenderer/lib libglad.a /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so -lglfw3 

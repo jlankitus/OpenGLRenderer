@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OpenGLRenderer.dir/src/main.cpp.o -o OpenGLRenderer  ../libs/libglfw3.a -lGL 

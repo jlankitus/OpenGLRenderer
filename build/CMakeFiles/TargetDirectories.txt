@@ -1,0 +1,4 @@
+/home/ubu/Documents/OpenGLRenderer/build/CMakeFiles/glad.dir
+/home/ubu/Documents/OpenGLRenderer/build/CMakeFiles/MyOpenGLProject.dir
+/home/ubu/Documents/OpenGLRenderer/build/CMakeFiles/edit_cache.dir
+/home/ubu/Documents/OpenGLRenderer/build/CMakeFiles/rebuild_cache.dir
